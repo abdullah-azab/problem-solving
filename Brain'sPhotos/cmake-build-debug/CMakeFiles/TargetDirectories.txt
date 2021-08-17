@@ -1,0 +1,3 @@
+C:/Users/aazsn/CLionProjects/Brain'sPhotos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aazsn/CLionProjects/Brain'sPhotos/cmake-build-debug/CMakeFiles/Brain_sPhotos.dir
+C:/Users/aazsn/CLionProjects/Brain'sPhotos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

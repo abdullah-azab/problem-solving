@@ -1,0 +1,3 @@
+C:/Users/aazsn/CLionProjects/Dubstep/cmake-build-debug/CMakeFiles/Dubstep.dir
+C:/Users/aazsn/CLionProjects/Dubstep/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aazsn/CLionProjects/Dubstep/cmake-build-debug/CMakeFiles/rebuild_cache.dir
