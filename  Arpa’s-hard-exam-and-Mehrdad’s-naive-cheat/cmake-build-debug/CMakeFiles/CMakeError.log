@@ -1,0 +1,16 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/aazsn/CLionProjects/problem-solving/ Arpa’s-hard-exam-and-Mehrdad’s-naive-cheat/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe cmTC_90033/fast && C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f CMakeFiles\cmTC_90033.dir\build.make CMakeFiles/cmTC_90033.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/aazsn/CLionProjects/problem-solving/ ArpaÆs-hard-exam-and-MehrdadÆs-naive-cheat/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_90033.dir/testCCompiler.c.obj
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe    -o CMakeFiles\cmTC_90033.dir\testCCompiler.c.obj   -c "C:\Users\aazsn\CLionProjects\problem-solving\ ArpaΓÇÖs-hard-exam-and-MehrdadΓÇÖs-naive-cheat\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+gcc.exe: error: C:\Users\aazsn\CLionProjects\problem-solving\ ArpaΓÇÖs-hard-exam-and-MehrdadΓÇÖs-naive-cheat\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_90033.dir\build.make:65: CMakeFiles/cmTC_90033.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/aazsn/CLionProjects/problem-solving/ ArpaÆs-hard-exam-and-MehrdadÆs-naive-cheat/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:120: cmTC_90033/fast] Error 2
+
+
+

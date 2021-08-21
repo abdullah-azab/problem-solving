@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(_Arpas_hard_exam_and_Mehrdads_naive_cheat)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(_Arpas_hard_exam_and_Mehrdads_naive_cheat main.cpp)
