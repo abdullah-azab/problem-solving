@@ -1,3 +1,0 @@
-C:/Users/aazsn/CLionProjects/problem-solving/TheatreSquare/cmake-build-debug/CMakeFiles/TheatreSquare.dir
-C:/Users/aazsn/CLionProjects/problem-solving/TheatreSquare/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/aazsn/CLionProjects/problem-solving/TheatreSquare/cmake-build-debug/CMakeFiles/rebuild_cache.dir
