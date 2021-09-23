@@ -1,0 +1,3 @@
+C:/Users/aazsn/CLionProjects/problem-solving/Panoramixs Prediction/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/aazsn/CLionProjects/problem-solving/Panoramixs Prediction/cmake-build-debug/CMakeFiles/Panoramixs_Prediction.dir
+C:/Users/aazsn/CLionProjects/problem-solving/Panoramixs Prediction/cmake-build-debug/CMakeFiles/edit_cache.dir
