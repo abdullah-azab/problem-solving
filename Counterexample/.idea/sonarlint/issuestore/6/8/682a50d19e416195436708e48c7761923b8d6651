@@ -1,0 +1,4 @@
+
+b!cpp:SingleDeclarationPerStatement"0Define each identifier in a dedicated statement.(Û±õÀıÿÿÿÿ
+Hcpp:S106".Replace this usage of "std::cout" by a logger.(ø‹©L8ƒ¼ÆÃ/
+Ncpp:S106".Replace this usage of "std::cout" by a logger.(ØÒÌÇıÿÿÿÿ8‚ƒ¼ÆÃ/
