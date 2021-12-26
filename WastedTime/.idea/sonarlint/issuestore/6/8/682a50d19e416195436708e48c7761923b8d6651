@@ -1,0 +1,6 @@
+
+b!cpp:SingleDeclarationPerStatement"0Define each identifier in a dedicated statement.(Îİ°³üÿÿÿÿ
+b!cpp:SingleDeclarationPerStatement"0Define each identifier in a dedicated statement.(ì´¡¡ıÿÿÿÿ
+0	cpp:S1905"Remove this redundant cast.(¤†‰Ñ
+Gcpp:S106".Replace this usage of "std::cout" by a logger.(¢—“«ıÿÿÿÿ
+Icpp:S106".Replace this usage of "std::cout" by a logger.(Ó÷Ò‹8Õ…ÙÄ/

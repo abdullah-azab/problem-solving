@@ -1,0 +1,3 @@
+C:/Users/aazsn/CLionProjects/problem-solving/PointsinFiguresRectangles/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aazsn/CLionProjects/problem-solving/PointsinFiguresRectangles/cmake-build-debug/CMakeFiles/PointsinFiguresRectangles.dir
+C:/Users/aazsn/CLionProjects/problem-solving/PointsinFiguresRectangles/cmake-build-debug/CMakeFiles/rebuild_cache.dir

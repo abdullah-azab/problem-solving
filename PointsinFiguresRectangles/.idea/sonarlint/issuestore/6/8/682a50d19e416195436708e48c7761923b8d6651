@@ -1,0 +1,17 @@
+
+4	cpp:S1763."'return' will never be executed(”·³›
+b!cpp:SingleDeclarationPerStatement"0Define each identifier in a dedicated statement.(ÿô—³şÿÿÿÿ
+]!cpp:SingleDeclarationPerStatement"0Define each identifier in a dedicated statement.(ö†Û·
+x	cpp:S3230"^Do not assign data members in a constructor. Initialize member "x1" in an initialization list.(Õ°Îµûÿÿÿÿ
+x	cpp:S3230"^Do not assign data members in a constructor. Initialize member "y1" in an initialization list.(»½úÿÿÿÿ
+x	cpp:S3230	"^Do not assign data members in a constructor. Initialize member "x2" in an initialization list.(¼“ú÷şÿÿÿÿ
+x	cpp:S3230
+"^Do not assign data members in a constructor. Initialize member "y2" in an initialization list.(¬É¹†øÿÿÿÿ
+`cpp:S134#"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(‘º“{
+D	cpp:S5820"/Convert this integer literal to a bool literal.(”õÑ
+b!cpp:SingleDeclarationPerStatement"0Define each identifier in a dedicated statement.(å‹´òüÿÿÿÿ
+f	cpp:S5025"QReplace the use of "new" with an operation that automatically manages the memory.(š­èª
+]!cpp:SingleDeclarationPerStatement"0Define each identifier in a dedicated statement.(ùç—©
+Gcpp:S106$".Replace this usage of "std::cout" by a logger.(ÿ®ï¤ıÿÿÿÿ
+Bcpp:S106)".Replace this usage of "std::cout" by a logger.(¤ÖÖû
+Dcpp:S836"+The left operand of '==' is a garbage value(åü¤şÿÿÿÿ
