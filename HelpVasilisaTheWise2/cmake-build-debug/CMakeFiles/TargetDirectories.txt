@@ -1,0 +1,3 @@
+C:/Users/aazsn/CLionProjects/problem-solving/HelpVasilisaTheWise2/cmake-build-debug/CMakeFiles/HelpVasilisaTheWise2.dir
+C:/Users/aazsn/CLionProjects/problem-solving/HelpVasilisaTheWise2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aazsn/CLionProjects/problem-solving/HelpVasilisaTheWise2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
