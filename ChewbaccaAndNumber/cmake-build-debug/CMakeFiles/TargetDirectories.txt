@@ -1,0 +1,3 @@
+C:/Users/aazsn/CLionProjects/problem-solving/ChewbaccaAndNumber/cmake-build-debug/CMakeFiles/ChewbaccaAndNumber.dir
+C:/Users/aazsn/CLionProjects/problem-solving/ChewbaccaAndNumber/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aazsn/CLionProjects/problem-solving/ChewbaccaAndNumber/cmake-build-debug/CMakeFiles/rebuild_cache.dir

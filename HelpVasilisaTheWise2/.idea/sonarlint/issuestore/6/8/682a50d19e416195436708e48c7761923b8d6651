@@ -1,0 +1,31 @@
+
+Gcpp:CommentedCodeY"Remove the commented out code.(í™Øëÿÿÿÿÿ8š¶¼»ï/
+mcpp:S134	"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ËÔä¨ûÿÿÿÿ8”ËŠ¹ï/
+R	cpp:S1066"1Merge this "if" statement with the enclosing one.(Á½ä©ÿÿÿÿÿ8•ËŠ¹ï/
+R	cpp:S1066	"1Merge this "if" statement with the enclosing one.(ËÔä¨ûÿÿÿÿ8•ËŠ¹ï/
+p	cpp:S3776"TRefactor this function to reduce its Cognitive Complexity from 29 to the 25 allowed.(Ôˆ™“8§ÑÏ»ï/
+hcpp:S1341"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(æøåæ8ßÂ»ï/
+i!cpp:SingleDeclarationPerStatement"0Define each identifier in a dedicated statement.(õÕäÂıÿÿÿÿ8–ËŠ¹ï/
+i!cpp:SingleDeclarationPerStatement"0Define each identifier in a dedicated statement.(Şİ¸üÿÿÿÿ8—ËŠ¹ï/
+d!cpp:SingleDeclarationPerStatement"0Define each identifier in a dedicated statement.(·šöÉ8—ËŠ¹ï/
+H	cpp:S5827"'Replace the redundant type with "auto".(÷”à€ıÿÿÿÿ8ƒƒ»ï/
+H	cpp:S5827"'Replace the redundant type with "auto".(œ¸šîûÿÿÿÿ8ƒƒ»ï/
+H	cpp:S5827 "'Replace the redundant type with "auto".(ÂÜ¾ºÿÿÿÿÿ8ƒƒ»ï/
+C	cpp:S5827!"'Replace the redundant type with "auto".(áä˜ö8ƒƒ»ï/
+C	cpp:S5827""'Replace the redundant type with "auto".(Ê‡Ä†8ƒƒ»ï/
+H	cpp:S5827#"'Replace the redundant type with "auto".(¦ó…âùÿÿÿÿ8ƒƒ»ï/
+r	cpp:S5025"QReplace the use of "new" with an operation that automatically manages the memory.(÷”à€ıÿÿÿÿ8Ş‘ûºï/
+r	cpp:S5025"QReplace the use of "new" with an operation that automatically manages the memory.(œ¸šîûÿÿÿÿ8¼üºï/
+r	cpp:S5025 "QReplace the use of "new" with an operation that automatically manages the memory.(ÂÜ¾ºÿÿÿÿÿ8È€ıºï/
+m	cpp:S5025!"QReplace the use of "new" with an operation that automatically manages the memory.(áä˜ö8È€ıºï/
+m	cpp:S5025""QReplace the use of "new" with an operation that automatically manages the memory.(Ê‡Ä†8È€ıºï/
+r	cpp:S5025#"QReplace the use of "new" with an operation that automatically manages the memory.(¦ó…âùÿÿÿÿ8È€ıºï/
+š	cpp:S5350."yMake the type of this variable a reference-to-const. The current type of "it_c1" is "struct std::pair<const int, int> &".(Øøÿÿÿÿ8–’¾»ï/
+š	cpp:S5350/"yMake the type of this variable a reference-to-const. The current type of "it_c2" is "struct std::pair<const int, int> &".(Ö€¡¾øÿÿÿÿ8Àø»ï/
+•	cpp:S53500"yMake the type of this variable a reference-to-const. The current type of "it_r1" is "struct std::pair<const int, int> &".(÷øæ£8¼ÒÃ»ï/
+•	cpp:S53501"yMake the type of this variable a reference-to-const. The current type of "it_r2" is "struct std::pair<const int, int> &".(æøåæ8ìûÃ»ï/
+š	cpp:S53502"yMake the type of this variable a reference-to-const. The current type of "it_d1" is "struct std::pair<const int, int> &".(çß“üÿÿÿÿ8á¡û»ï/
+š	cpp:S53503"yMake the type of this variable a reference-to-const. The current type of "it_d2" is "struct std::pair<const int, int> &".(ó§şĞşÿÿÿÿ8«ìû»ï/
+Ncpp:S106B".Replace this usage of "std::cout" by a logger.(°¿½«ıÿÿÿÿ8Š¬€¼ï/
+Icpp:S106C".Replace this usage of "std::cout" by a logger.(Ëµ»º8Òî¼ï/
+Ncpp:S106M".Replace this usage of "std::cout" by a logger.(…‘êşÿÿÿÿ8õ¨…¼ï/
