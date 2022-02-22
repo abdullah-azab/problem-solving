@@ -1,0 +1,13 @@
+
+hcpp:S134*"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ç¡Û¾8êÜÜëñ/
+hcpp:S1342"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(–øË–8ğ¨İëñ/
+Icpp:S106'".Replace this usage of "std::cout" by a logger.(ÑŞÚË8ïÜÜëñ/
+Ncpp:S106+".Replace this usage of "std::cout" by a logger.(ô©áÈüÿÿÿÿ8ğÜÜëñ/
+acpp:AssignmentInSubExpression+",Extract the assignment from this expression.(ô©áÈüÿÿÿÿ8ğÜÜëñ/
+Icpp:S106-".Replace this usage of "std::cout" by a logger.(ø™ÚŒ8ö¨İëñ/
+\cpp:AssignmentInSubExpression-",Extract the assignment from this expression.(ø™ÚŒ8ö¨İëñ/
+Icpp:S1063".Replace this usage of "std::cout" by a logger.(¸Ø×÷8·•Şëñ/
+\cpp:AssignmentInSubExpression3",Extract the assignment from this expression.(¸Ø×÷8›‹õëñ/
+Icpp:S1065".Replace this usage of "std::cout" by a logger.(ø™ÚŒ8›‹õëñ/
+\cpp:AssignmentInSubExpression5",Extract the assignment from this expression.(ø™ÚŒ8›‹õëñ/
+Hcpp:S106>".Replace this usage of "std::cout" by a logger.(ôÂ¬8œ‹õëñ/
